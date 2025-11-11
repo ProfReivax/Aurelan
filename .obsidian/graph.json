@@ -1,0 +1,79 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "#Nation",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "#City",
+      "color": {
+        "a": 1,
+        "rgb": 15173917
+      }
+    },
+    {
+      "query": "#Place",
+      "color": {
+        "a": 1,
+        "rgb": 15654991
+      }
+    },
+    {
+      "query": "#Shop",
+      "color": {
+        "a": 1,
+        "rgb": 6078166
+      }
+    },
+    {
+      "query": "#People",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "#Quest",
+      "color": {
+        "a": 1,
+        "rgb": 10443990
+      }
+    },
+    {
+      "query": "#Religion",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "#Player_Character",
+      "color": {
+        "a": 1,
+        "rgb": 4934475
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.1,
+  "nodeSizeMultiplier": 1.00139583333333,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.463541666666667,
+  "repelStrength": 16.0416666666667,
+  "linkStrength": 1,
+  "linkDistance": 282,
+  "scale": 0.5359795996225754,
+  "close": false
+}
