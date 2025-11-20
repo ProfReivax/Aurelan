@@ -1,27 +1,31 @@
-#city
-A mercenary city situated between **[[The Empire]]** and **[[Ael'Nathra]]**.
+#city #Nation 
+
+## **Origin**
+
+When the Empire began its relentless rise, swallowing neighboring nations with iron and fire, [[Kael Marcher]] found himself at a crossroads. His homeland, **[[Vhaloria]]**, once proud and free, had fallen under the Empire’s tightening grip. Unwilling to bow beneath a distant crown, Kael gathered his closest war companions—seasoned mercenaries, hardened veterans, and their families—and made a bold choice. Rather than submit or scatter, they would forge a new destiny with their own hands.  
+Carving out a rugged stronghold between the warring powers of [[The Empire]] and [[Ael'Nathra]], they laid the foundations of Marcherion. Here, strength and honor were currency, and every soul’s worth was measured by their blade and resolve. It was not just a refuge, but a city born from defiance and ambition—a testament to those who refused to be ruled and chose instead to rule themselves.
+
 ## **Overview**
 
 **Marcherion** is a city-state where wealth and strength alone determine your status. Bloodlines and titles mean nothing here — only what you can defend with a blade or buy with gold. Contracts are the city’s true currency: escorting caravans, assassinating rivals, protecting diplomats — all can make or break a person’s fortune. As the locals say, _“In Marcherion, your word is worth your steel.”_
 
-Founded **169 years ago** by a wealthy mercenary named **Kael Marcher**, the city still bears his mark. His towering statue dominates [[The Concord Market]] — sword raised, gaze fixed on the horizon, a symbol of ambition and earned glory.
+Founded **156 years ago** by a wealthy mercenary named **[[Kael Marcher]]**, the city still bears his mark. His towering statue dominates [[The Concord Market]] — sword raised, gaze fixed on the horizon, a symbol of ambition and earned glory.
 
-Though not a metropolis, Marcherion is a bustling crossroads. Its streets are lined with fortified stone houses, forges, mercenary guild halls, and ever-rowdy taverns. The city’s **university**, established by Kael’s descendants, trains not only soldiers and tacticians, but diplomats, alchemists, and war-scholars — for in Marcherion, intellect is just another weapon.
+Though not a metropolis, Marcherion is a bustling crossroads. Its streets are lined with fortified stone houses, forges, mercenary guild halls, and ever-rowdy taverns. The city’s **university**, established by Kael and the first few [[Iron Concord]], trains not only soldiers and tacticians, but diplomats, alchemists, and war-scholars — for in Marcherion, intellect is just another weapon.
 
-Despite its hardened reputation, the city hosts numerous **temples** to gods of war, luck, and oaths. Mercenaries leave offerings before campaigns, praying for profit and survival in equal measure.
-
-On the outskirts lies an **abandoned mine**, once the source of much of Marcherion’s wealth. It has long since fallen into ruin, now serving as a hideout for **bandits** and **fallen companies** surviving through ambush and extortion. Some whisper that rich veins of ore remain untouched within… others claim you can still hear **Kael Marcher’s** voice echoing through the tunnels, calling for those bold enough to reclaim what was lost.
-
-
+Despite its hardened reputation, the city hosts numerous **temples**, one for every god of the [[Pantheon of Auleran]]. Mercenaries leave offerings before campaigns, praying for profit and survival in equal measure.
 ## **Government**
+[[Marcherion Government]] info
 
-Marcherion is ruled not by kings or nobles, but by the **Iron Concord**, a council of thirteen representatives drawn from the city’s most powerful mercenary companies and merchant guilds. In theory, the Concord exists to guide and protect the city. In practice, it serves only itself.
+Marcherion is governed by the **Iron Concord**, a council of thirteen voices said to represent the city’s most powerful guilds and companies. Together, they decide on trade laws, military contracts, and the city’s overall direction — at least in theory.
 
-For over a century and a half, the Concord has acted purely for the benefit of its members — brokering exclusive contracts, skimming tariffs, and granting themselves lucrative monopolies. The last major public work attributed to them dates back **160 years**: the founding of the **University of Marcherion**, established under an idealistic City Marshal who dreamed of raising the city above blood and coin. He was swiftly deposed — some say murdered — for his ideals.
+To most citizens, the Concord feels distant and untouchable. Its meetings are closed, its votes are quiet, and its decrees arrive signed and sealed without much explanation. What’s known is that every three years, the **City Marshal** is chosen from among their ranks — a title part commander, part lawkeeper, and part public face. The current one, Commander Varek Thorne of the Iron Fangs, rules with firm discipline and little patience for disorder.
 
-Since then, no true civic institution has been built by the council. The **temples**, **covered markets**, and **residential districts** that now define the city were all founded by the people themselves: craftsmen, guilds, and mercenaries who decided to shape their own destiny rather than wait for permission from those in power. In Marcherion, the saying _“If you want something, forge it yourself”_ isn’t advice — it’s a creed.
+While the Concord claims to act for the good of all Marcherion, few expect generosity from them. The city’s real progress — its markets, temples, and neighborhoods — tends to come from the hands of those who live there. In Marcherion, people trust in their own strength and the work of their peers long before they trust in politics.
 
-The **City Marshal**, elected every three years from among the Concord’s ranks, is little more than a figurehead. Real influence comes from fear, gold, or the ability to rally allies through force of will. Those who have tried to reform the system tend to vanish soon after, usually in “honorable duels” no one dares to question.
+Locals often say:
+
+> “The Concord builds walls. We build everything inside them.”
 
 
 ## **Culture and Daily Life**
@@ -33,7 +37,7 @@ Violence isn’t outlawed; it’s **regulated**. Disputes are often settled thro
 Religion is the city’s only true source of **community**. While most relationships in Marcherion are transactional, the temples are sacred ground where all stand as equals before the **Principles**.  
 Using faith for personal gain is deeply frowned upon — a betrayal of what little purity the city still holds. Within temple walls, weapons are laid aside, and ambition quiets. People come not to bargain, but to find peace, reflection, or perhaps forgiveness for what they’ve become outside.
 
-Marcherion is one of the few places in the world to house **a temple to each of the Twelve Principles**
+Marcherion is one of the few places in the world to house **a temple to each of the Twelve Principles** of the [[Pantheon of Auleran]].
 At night, the temples light up before the forges do — a reminder that despite its iron heart, Marcherion is not soulless. It is a city of warriors, merchants, and seekers — all striving, in their own way, for something greater than themselves.
 
 ## **Notable Landmarks**
@@ -46,7 +50,7 @@ At night, the temples light up before the forges do — a reminder that despite 
 	The seat of Marcherion’s ruling council. Thirteen fortified towers joined by arched bridges, each housing one representative’s office and private chambers.
 
 - [[The University of Marcherion]]
-	Founded 160 years ago, shortly after the Concord’s creation.
+	Founded 147 years ago, shortly after the Concord’s creation.
 	Renowned for its studies in warfare, diplomacy, and alchemy — the intellectual forge of Marcherion’s elite. 
 	Scholars often double as tacticians or contract advisors to mercenary companies. Located just outside the Concord’s ring, symbolizing proximity to power without belonging to it.
 
@@ -55,7 +59,3 @@ At night, the temples light up before the forges do — a reminder that despite 
 	Locals gather here to relax, fish, and reflect — a rare place of calm within the city’s iron heart. 
 	Hosts a smaller secondary market, selling food, crafts, and curiosities rather than contracts or arms.
 
-- [[The Abandoned Mine of Marcherion]] 
-	Located on the city’s outskirts, once a major source of wealth. 
-	Now overrun by bandits, rogue mercenaries, and those who failed to make a name in the city.
-	Rumors persist of hidden riches and ghostly whispers of Kael Marcher himself echoing through the tunnels.

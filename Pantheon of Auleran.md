@@ -1,0 +1,13 @@
+#Religion 
+[[Death]]  
+[[Justice]]  
+[[Knowledge]]  
+[[Life]]  
+[[Luck]]  
+[[Nature]]  
+[[Passion]]
+[[Servitude]]  
+[[Suffering]]  
+[[Time]]  
+[[War]]  
+[[Wealth]]

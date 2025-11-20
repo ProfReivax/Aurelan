@@ -8,6 +8,27 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "#Player_Character",
+      "color": {
+        "a": 1,
+        "rgb": 4934475
+      }
+    },
+    {
+      "query": "#Info",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
+    },
+    {
+      "query": "#Quest",
+      "color": {
+        "a": 1,
+        "rgb": 10443990
+      }
+    },
+    {
       "query": "#Nation",
       "color": {
         "a": 1,
@@ -29,6 +50,20 @@
       }
     },
     {
+      "query": "#Religion",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "#Organisation",
+      "color": {
+        "a": 1,
+        "rgb": 15057602
+      }
+    },
+    {
       "query": "#Shop",
       "color": {
         "a": 1,
@@ -41,39 +76,18 @@
         "a": 1,
         "rgb": 6084188
       }
-    },
-    {
-      "query": "#Quest",
-      "color": {
-        "a": 1,
-        "rgb": 10443990
-      }
-    },
-    {
-      "query": "#Religion",
-      "color": {
-        "a": 1,
-        "rgb": 6053078
-      }
-    },
-    {
-      "query": "#Player_Character",
-      "color": {
-        "a": 1,
-        "rgb": 4934475
-      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.1,
-  "nodeSizeMultiplier": 1.00139583333333,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -0.3,
+  "nodeSizeMultiplier": 1.49696764586436,
+  "lineSizeMultiplier": 0.775267361581156,
   "collapse-forces": false,
-  "centerStrength": 0.463541666666667,
-  "repelStrength": 16.0416666666667,
-  "linkStrength": 1,
-  "linkDistance": 282,
-  "scale": 0.5359795996225754,
+  "centerStrength": 0.298091241369974,
+  "repelStrength": 13.412752132124,
+  "linkStrength": 0.532015703262488,
+  "linkDistance": 268,
+  "scale": 0.5334256633505182,
   "close": false
 }

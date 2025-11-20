@@ -16,3 +16,6 @@ Une famille noble est présente dans toutes les nations ou presque et donc veule
 Slek est le loser de la famille qui est maintenant bandit avec un groupe dans la mine
 
 Quête memoire
+
+
+remplir les shops avec des choses a acheter

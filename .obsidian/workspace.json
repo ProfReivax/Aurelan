@@ -6,7 +6,7 @@
       {
         "id": "160bac078a6bcffd",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 59.418669647847956,
         "children": [
           {
             "id": "7b67f7586d5bae67",
@@ -14,20 +14,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The University of Marcherion.md",
+                "file": "The Rise of the Empire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The University of Marcherion"
+              "title": "The Rise of the Empire"
             }
           }
         ]
       },
       {
-        "id": "1f6fa7b7bc6b6095",
+        "id": "fd55170252957b36",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 40.58133035215204,
         "children": [
           {
             "id": "140ccb37344ab916",
@@ -35,12 +35,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge.md",
+                "file": "Death.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Knowledge"
+              "title": "Death"
+            }
+          },
+          {
+            "id": "3a39e38cab980b2c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
             }
           }
         ]
@@ -190,30 +202,34 @@
   },
   "active": "140ccb37344ab916",
   "lastOpenFiles": [
-    "The Concord Market.md",
-    "The Contract Wall.md",
-    "The Silver Seat Tavern.md",
-    "The University of Marcherion.md",
-    "Henry Bubblebop.md",
-    "Knowledge.md",
-    "Rhael Oswin.md",
-    "Andelora (Nation).md",
+    "Iron Concord.md",
+    "The Iron Fangs.md",
+    "Laws of Marcherion.md",
+    "Marcherion Citizenship.md",
+    "Kael Marcher.md",
+    "The Rise of the Empire.md",
+    "The Years of Consolidation.md",
+    "The War of Three Crowns.md",
+    "The Fragile Peace.md",
+    "The Long Tear.md",
     "Marcherion.md",
-    "To-do.md",
-    "The Iron Spires.md",
-    "Ael'Nathra.md",
-    "Draag Zuggul.md",
-    "Kael’s Rest.md",
-    "Andelora, the Pearl of the Depth.md",
-    "The Empire.md",
-    "Mara Venn.md",
-    "The Abandoned Mine of Marcherion.md",
-    "Missing Caravan (1).md",
-    "Noctharis.md",
+    "The Concord Market.md",
+    "Ironhide Armory.md",
+    "Dren Korrin.md",
+    "Iron Fangs.md",
+    "Torren Blackwood.md",
+    "Blackwood’s Tools.md",
+    "Eldren Moss.md",
+    "Professor Renna Dullis.md",
+    "Scribe’s Ember.md",
+    "The Black Chalice.md",
+    "Lyra Vint.md",
+    "The Copper Phial.md",
+    "The Shattered Blade.md",
+    "Andelora (Nation).md",
+    "The Marblers.md",
     "Pasted image 20251028201354.png",
     "Untitled.canvas",
-    "Auleran.canvas",
-    "Welcome.md",
-    "2025-10-28.md"
+    "Auleran.canvas"
   ]
 }

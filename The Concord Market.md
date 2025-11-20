@@ -28,3 +28,19 @@ Because of this, it’s one of the few places in the city where enemies can meet
 - **[[The Silver Seat Tavern]]**  
 	A corner tavern divided into three areas: a lively **bar** for socializing, a **main hall** for serious negotiations, and **private rooms** for secretive contracts. 
 	Owned by **[[Mara Venn]]**, a respected retired mercenary, it serves as a hub for captains, brokers, and adventurers, where deals are struck, rumors exchanged, and respect is mandatory.
+
+- **[[Ironhide Armory]]**  
+	_Shop:_ Specializes in durable medium and heavy armor, with custom fittings for mercenary companies.  
+	_Owner:_ **[[Dren Korrin]]**, male dwarf (88), ex-Iron Fang quartermaster. Gruff, fair, and hates haggling. Keeps a wall of retired helmets “from men who forgot to duck.”
+
+- **[[The Shattered Blade]]**  
+	_Shop:_ Repairs, reforges, and resells salvaged weapons from old battlefields. Prices low, quality unpredictable.  
+	_Owner:_ **[[Lyra Vint]]**, human woman (34), once a sellsword. Collects fragments of famous blades — and the stories that go with them.
+
+- **[[The Copper Phial]]**  
+	_Shop:_ Stocks low-level potions and simple alchemical reagents — healing draughts, antidotes, stimulants.  
+	_Owner:_ **[[Eldren Moss]]**, half-elf man (52). Soft-spoken and always smells faintly of cinnamon and acid. Works part-time for the Black Chalice.
+
+- **[[Scribe’s Ember]]**  
+	_Shop:_ Modest scroll shop offering basic spells, wards, and transcription services for adventurers.  
+	_Owner:_ **[[Professor Renna Dullis]]**, tiefling woman (72). Retired University mage with shaky hands but a sharp mind. Teaches cantrip lessons to street kids.
