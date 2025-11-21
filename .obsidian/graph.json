@@ -76,6 +76,13 @@
         "a": 1,
         "rgb": 6084188
       }
+    },
+    {
+      "query": "#Session",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
     }
   ],
   "collapse-display": false,

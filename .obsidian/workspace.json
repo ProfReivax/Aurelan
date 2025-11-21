@@ -11,10 +11,10 @@
             "id": "496afbe30a29d20f",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -162,8 +162,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "99863342602fc4d5",
+  "active": "496afbe30a29d20f",
   "lastOpenFiles": [
+    "3. Sessions/Session 0.md",
+    "0. Lore & World building/0.0 World building and fundamental truths/0.0.1 Dragons/Zephyra.md",
     "0. Lore & World building/0.0 World building and fundamental truths/0.0.1 Dragons/Umbriar.md",
     "0. Lore & World building/0.0 World building and fundamental truths/0.0.1 Dragons/Delphire.md",
     "0. Lore & World building/0.0 World building and fundamental truths/0.0.1 Dragons/Gaiora.md",
@@ -172,7 +174,6 @@
     "0. Lore & World building/0.0 World building and fundamental truths/Magic.md",
     "0. Lore & World building/0.0 World building and fundamental truths/Void.md",
     "0. Lore & World building/0.0 World building and fundamental truths/0.0.1 Dragons/Ignivar.md",
-    "0. Lore & World building/0.0 World building and fundamental truths/0.0.1 Dragons/Zephyra.md",
     "0. Lore & World building/0.0 World building and fundamental truths/0.0.0 Religion/War.md",
     "0. Lore & World building/0.1 Nations/Vhaloria.md",
     "0. Lore & World building/0.5 People/Torren Blackwood.md",
@@ -190,7 +191,6 @@
     "2. Gameplay/2.1 Shops/The Copper Phial.md",
     "0. Lore & World building/0.3 Places/The Contract Wall.md",
     "0. Lore & World building/0.3 Places/The Concord Market.md",
-    "0. Lore & World building/0.4 Organisations/Iron Concord.md",
     "0. Lore & World building/0.6 Info/0.6.1 Politics",
     "0. Lore & World building/0.6 Info/0.6.0 History",
     "0. Lore & World building/0.6 Info",
