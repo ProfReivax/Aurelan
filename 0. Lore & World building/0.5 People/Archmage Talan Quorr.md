@@ -1,4 +1,6 @@
-	#People 
+#People 
+
+Leader of: **[[The Obsidian Chorus]]**
 
 A stoic mage whose voice seems to echo when he speaks. His focus lies in the discipline of control — of spells, people, and politics.  
 

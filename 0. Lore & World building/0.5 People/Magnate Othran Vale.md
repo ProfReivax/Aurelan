@@ -1,4 +1,6 @@
-#People 
+#People
+
+Leader of: **[[The Gilded Ledger]]**
 
 A plump, soft-spoken man who never leaves his marble tower — said to have personally financed five coups and three wars without lifting a sword.  
 

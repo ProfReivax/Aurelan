@@ -1,5 +1,7 @@
 #People
 
+Leader of: **[[The Steel Jaws]]**
+
 A half-orc siege engineer and former warlord. He sees every battle as an equation of weight and metal.
 
 **Personality:** Gruff but shrewd, with the demeanor of a blacksmith philosopher.  

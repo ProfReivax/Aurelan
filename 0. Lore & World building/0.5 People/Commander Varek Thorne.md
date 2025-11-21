@@ -2,6 +2,7 @@
 
 The Current City Marshal of [[Marcherion]]
 
+Leader of: **[[The Iron Fangs]]**
 A towering, scarred veteran who rose from the rank and file during the city’s last major riot. Known for his strict discipline and his belief that “fear is order.”  
 
 **Personality:** Cold, pragmatic, and utterly loyal to the structure of power — not the people who hold it.  

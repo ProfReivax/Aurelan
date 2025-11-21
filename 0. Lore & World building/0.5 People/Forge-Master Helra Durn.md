@@ -1,5 +1,7 @@
 #People 
 
+Leader of: **[[The Blackened Anvils]]**
+
 A dwarven matriarch who runs the forges like a temple, every strike of the hammer a prayer. Her smiths are fanatically loyal.  
 
 **Personality:** Proud, traditional, and humorless — believes industry is the truest faith.  

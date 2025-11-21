@@ -1,5 +1,7 @@
 #People 
 
+Leader of: **[[The Iron Ravens]]**
+
 A lean, sharp-eyed man in plain charcoal attire, always composed and unreadable. His calm voice and precise movements suggest a mind that misses nothing.
 
 **Personality:** Quiet, calculating, and unflinchingly controlled. Corven values secrets above gold and speaks only when words can shape outcomes.
