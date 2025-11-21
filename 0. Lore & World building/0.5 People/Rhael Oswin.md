@@ -4,7 +4,7 @@ Species: Human
 Age: 52  
 Gender: Male
 
-**Title:** Chancellor of [[the University of Marcherion]]
+**Title:** Chancellor of [[The University of Marcherion]]
 
 **Description:** A scholarly man in his early fifties with streaks of silver in his dark hair and sharp, observant eyes behind thin spectacles. Always impeccably dressed in robes blending traditional academic colors with practical leatherwork suited to the city’s mercenary spirit.
 

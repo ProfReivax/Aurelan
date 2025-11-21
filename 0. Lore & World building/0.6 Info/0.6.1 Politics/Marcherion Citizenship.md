@@ -77,7 +77,7 @@ Becoming a citizen of Marcherion means proving yourself worthy through service, 
 	While direct political power is limited, citizens can influence guild decisions and petition the [[Iron Concord]] through official channels.
 
 - **Priority Access to Training and Education**  
-	Citizens and their families have priority at [[the University of Marcherion]] and specialized training programs vital to mercenary life.
+	Citizens and their families have priority at [[The University of Marcherion]] and specialized training programs vital to mercenary life.
 
 - **Right to Own Property and Maintain Personal Armories**  
 	Citizens can own homes, workshops, weapon caches, and other assets essential for their profession and livelihood.

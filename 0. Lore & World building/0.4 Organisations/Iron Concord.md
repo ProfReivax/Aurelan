@@ -1,4 +1,4 @@
-#People
+#Organisation 
 
 ### 1. **[[The Iron Fangs]]**
 
