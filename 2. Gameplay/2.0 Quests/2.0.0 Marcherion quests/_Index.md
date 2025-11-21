@@ -1,11 +1,12 @@
 Index rassemblant toutes les quêtes de Marcherion
-## Quêtes principales
 
-1. Exploration de la mine
-2. Quête d'identité
-	1. Va demander d'aller compléter des quêtes secondaires, ou du moins y être exposé
-3. Départ
-## Quêtes secondaires
+## Main Quests
+1. [[Act 1 - In Search of the Lost Words]]
+	 [[1. Le convoi disparu]]
+	 [[2. Le fermier et les rumeurs]]
+	 [[3. La mine abandonnée]]
+2. [[Act 2 - Memory Lapse]]
+## Secondary Quests
 1. Empoisonnement du lac
 2. Qui sème le vent récolte l'arthempète
 3. Disparition des touristes
