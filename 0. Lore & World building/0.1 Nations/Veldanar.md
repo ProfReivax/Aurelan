@@ -1,0 +1,5 @@
+#Nation 
+
+Nestled at the fertile heart of [[the Empire]], Veldanar stretches across rolling fields of golden wheat and barley that sway under vast, open skies. This province is the very foundation of Imperial prosperity, often called “true Imperial soil” for its rich earth that has fed generations. Ancient stone towns dot the landscape—weathered but proud, their walls built from local grey stone that stands as a testament to enduring tradition and steadfast resilience.
+
+The air is filled with the scent of freshly turned soil and the sound of farm animals at work. Here, time seems to move with the seasons, anchored by the rhythms of planting and reaping, the cycle of life sustained by the land’s generosity. Veldanar is both a place of quiet, steady labor and deep-rooted pride—a province where families have tilled the earth for centuries, guarding their heritage and the land that gives them life.

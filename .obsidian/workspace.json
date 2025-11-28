@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9730afb0c9296cdc",
+        "id": "6e08175569859252",
         "type": "tabs",
         "children": [
           {
-            "id": "496afbe30a29d20f",
+            "id": "91359a8048a2fe78",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Gameplay/2.0 Quests/2.0.0 Marcherion quests/2.0.0.0 Main quests/1. Le convoi disparu.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Le convoi disparu"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Shop",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,38 +162,38 @@
       "bases:Create new base": false
     }
   },
-  "active": "496afbe30a29d20f",
+  "active": "91359a8048a2fe78",
   "lastOpenFiles": [
-    "2. Gameplay/2.0 Quests/2.0.0 Marcherion quests/_Index.md",
-    "2. Gameplay/2.0 Quests/2.0.0 Marcherion quests/Act 1 - In Search of the Lost Words.md",
-    "2. Gameplay/2.0 Quests/2.0.0 Marcherion quests/2.0.0.0 Main quests/3. La mine abandonnée.md",
+    "0. Lore & World building/0.3 Places/The Hall of Equilibrium.md",
+    "0. Lore & World building/0.5 People/Maraleen.md",
+    "1. Player Characters/Farideh Daardendrian.md",
+    "0. Lore & World building/0.4 Organisations/The Iron Ravens.md",
+    "0. Lore & World building/0.0 World building and fundamental truths/0.0.0 Religion/Pantheon of Auleran.md",
+    "0. Lore & World building/0.0 World building and fundamental truths/0.0.0 Religion/Servitude.md",
+    "2. Gameplay/2.1 Shops/Blackwood’s Tools.md",
+    "0. Lore & World building/0.5 People/Sidos Larran.md",
+    "0. Lore & World building/0.5 People/Dalia Henn.md",
+    "0. Lore & World building/0.5 People/Varon Mythe.md",
+    "0. Lore & World building/0.3 Places/The Black Roost.md",
+    "0. Lore & World building/0.1 Nations/K'Sharrah.md",
+    "0. Lore & World building/0.5 People/Rathos Vamhyr.md",
+    "0. Lore & World building/0.4 Organisations/The Iron Fangs.md",
+    "0. Lore & World building/0.4 Organisations/Iron Concord.md",
+    "0. Lore & World building/0.5 People/Kess Haldovar.md",
+    "0. Lore & World building/0.0 World building and fundamental truths/0.0.0 Religion/Justice.md",
+    "0. Lore & World building/0.1 Nations/The Empire.md",
+    "0. Lore & World building/0.3 Places/Library of First Dawn.md",
+    "0. Lore & World building/0.5 People/Kelren Volst.md",
+    "0. Lore & World building/0.6 Info/0.6.1 Politics/Laws of Marcherion.md",
+    "0. Lore & World building/0.1 Nations/Marcherion.md",
+    "0. Lore & World building/0.3 Places/The Iron Spires.md",
     "2. Gameplay/2.0 Quests/2.0.0 Marcherion quests/2.0.0.0 Main quests/Missing Caravan (1).md",
-    "2. Gameplay/2.0 Quests/2.0.0 Marcherion quests/2.0.0.0 Main quests/1. Le convoi disparu.md",
-    "2. Gameplay/2.0 Quests/2.0.0 Marcherion quests/2.0.0.0 Main quests/2. Le fermier et les rumeurs.md",
+    "0. Lore & World building/0.5 People/Master Corven Draal.md",
+    "0. Lore & World building/0.3 Places/The University of Marcherion.md",
     "2. Gameplay/2.3 Dungeons",
-    "2. Gameplay/2.0 Quests/2.0.0 Marcherion quests/Act 2 - Memory Lapse.md",
     "2. Gameplay/2.0 Quests/2.0.0 Marcherion quests/2.0.0.1 Side quests",
-    "To-do.md",
     "2. Gameplay/2.0 Quests/2.0.0 Marcherion quests/2.0.0.0 Main quests",
-    "3. Sessions/Session 0.md",
-    "0. Lore & World building/0.0 World building and fundamental truths/0.0.1 Dragons/Zephyra.md",
-    "0. Lore & World building/0.0 World building and fundamental truths/0.0.1 Dragons/Umbriar.md",
-    "0. Lore & World building/0.0 World building and fundamental truths/0.0.1 Dragons/Delphire.md",
-    "0. Lore & World building/0.0 World building and fundamental truths/0.0.1 Dragons/Gaiora.md",
-    "0. Lore & World building/0.0 World building and fundamental truths/The Origin of Magic in Auleran.md",
     "0. Lore & World building/0.0 World building and fundamental truths/0.0.1 Dragons",
-    "0. Lore & World building/0.0 World building and fundamental truths/Magic.md",
-    "0. Lore & World building/0.0 World building and fundamental truths/Void.md",
-    "0. Lore & World building/0.0 World building and fundamental truths/0.0.1 Dragons/Ignivar.md",
-    "0. Lore & World building/0.0 World building and fundamental truths/0.0.0 Religion/War.md",
-    "0. Lore & World building/0.1 Nations/Vhaloria.md",
-    "0. Lore & World building/0.5 People/Torren Blackwood.md",
-    "0. Lore & World building/0.0 World building and fundamental truths/0.0.0 Religion/Time.md",
-    "0. Lore & World building/0.6 Info/0.6.0 History/The War of Three Crowns.md",
-    "2. Gameplay/2.1 Shops/The Silver Seat Tavern.md",
-    "2. Gameplay/2.1 Shops/The Shattered Blade.md",
-    "0. Lore & World building/0.6 Info/0.6.0 History/The Rise of the Empire.md",
-    "0. Lore & World building/0.2 Cities/The Marblers.md",
     "0. Lore & World building/0.6 Info/0.6.1 Politics",
     "0. Lore & World building/0.6 Info/0.6.0 History",
     "0. Lore & World building/0.6 Info",

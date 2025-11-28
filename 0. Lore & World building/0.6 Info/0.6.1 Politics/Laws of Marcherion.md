@@ -1,6 +1,4 @@
 #Info 
-# **Laws of [[Marcherion]]**
-
 ### 1. **Law of Meritocracy**
 _Status is earned, not given._  
 In [[Marcherion]], ancestry and noble birth mean nothing. This law exists to uphold the city’s core belief that only skill, courage, and achievement matter. It ensures that even the lowliest mercenary can rise through the ranks if they prove themselves. It also prevents old noble houses or foreign powers from buying influence in the city.  
