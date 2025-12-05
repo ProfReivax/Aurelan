@@ -7,7 +7,7 @@ Eyes: Copper brown
 Size: 6'2"
 Weight: 140 lbs.
 Nickname: "_The Copper Prodigy_"
-Cleric of [[Knowledge]]
+Religion: Cleric of [[Knowledge]]
 
 Works at the: [[Library of First Dawn]]
 

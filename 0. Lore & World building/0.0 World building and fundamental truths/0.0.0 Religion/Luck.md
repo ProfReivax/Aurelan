@@ -4,8 +4,6 @@
 
 The god of Luck governs chance, fortune, and the unpredictable tides that shape fate. Neither wholly benevolent nor cruel, this deity embodies the chaotic balance between fortune’s gifts and misfortunes. To some followers, the god is a bringer of opportunity and hope; to others, a reminder that fate can be capricious and merciless.
 
-
-
 ## **Tenets of the Fortune’s Favor**
 
 (Neutral, balanced principles followers might live by)
@@ -19,8 +17,6 @@ The god of Luck governs chance, fortune, and the unpredictable tides that shape 
 4. **Balance Risk and Wisdom:** Fortune favors boldness, but folly invites ruin.
 
 5. **Honor the Unseen Thread:** The web of fate connects all; no act is wholly random or without consequence.
-
-
 
 ## **Verses of Fortune’s Favor**
 

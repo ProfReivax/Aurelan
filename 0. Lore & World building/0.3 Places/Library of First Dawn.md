@@ -29,7 +29,7 @@ A quiet, pale woman who rarely speaks unless necessary. Her gaze is penetrating 
 
 ---
 #### [[Kess Haldovar]]
-A teenage acolyte, 17 years old, wide-eyed and bursting with enthusiasm. She admires [[Farideh Daardendrian]] greatly and shadows her whenever possible, soaking up knowledge like a sponge. Clumsy but earnest.
+A teenage acolyte, 17 years old, wide-eyed and bursting with enthusiasm. he admires [[Farideh Daardendrian]] greatly and shadows her whenever possible, soaking up knowledge like a sponge. Clumsy but earnest.
 
 ---
 #### [[Serenya Daskelle]]
