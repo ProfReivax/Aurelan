@@ -4,20 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "6e08175569859252",
+        "id": "6beae21e97f870c0",
         "type": "tabs",
         "children": [
           {
-            "id": "91359a8048a2fe78",
+            "id": "d54ae2be175ec265",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Marcherion Layout.md",
+=======
+                "file": "2. Gameplay/2.0 Quests/2.0.0 Marcherion quests/2.0.0.0 Main quests/2. Le fermier et les rumeurs.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "Marcherion Layout"
             }
           },
@@ -61,6 +66,9 @@
               },
               "icon": "lucide-file",
               "title": "citrange"
+=======
+              "title": "2. Le fermier et les rumeurs"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -120,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 434.5
+    "width": 362.5
   },
   "right": {
     "id": "0ba6ade7f36d053e",
@@ -208,8 +216,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "91359a8048a2fe78",
+  "active": "d54ae2be175ec265",
+  "active": "d54ae2be175ec265",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "3. Sessions/Session 0.md",
     "citrange.md",
     "0. Lore & World building/0.5 People/Hitbarks Hiltgrown.md",
@@ -219,22 +229,20 @@
     "0. Lore & World building/0.3 Places/The Hall of Equilibrium.md",
     "Marcherion Layout.md",
     "0. Lore & World building/0.1 Nations/K'Sharrah.md",
-    "0. Lore & World building/0.3 Places/The Iron Spires.md",
-    "Highmarch District.md",
+    "0. Lore & World building/0.5 People/Rathos Vamhyr.md",
+    "0. Lore & World building/0.4 Organisations/The Iron Fangs.md",
     "0. Lore & World building/0.4 Organisations/Iron Concord.md",
-    "Marcherion High Court.md",
-    "0. Lore & World building/0.6 Info/Calendar of Auleran.md",
-    "0. Lore & World building/0.6 Info/Lament of the Forgotten.md",
-    "0. Lore & World building/0.0 World building and fundamental truths/Calendar of Auleran.md",
-    "2. Gameplay/2.0 Quests/2.0.0 Marcherion quests/2.0.0.0 Main quests/1. Le convoi disparu.md",
-    "0. Lore & World building/0.3 Places/The Concord Market.md",
-    "2. Gameplay/2.1 Shops/Holt’s Groceries.md",
-    "0. Lore & World building/0.5 People/Professor Renna Dullis.md",
-    "0. Lore & World building/0.5 People/Varon Mythe.md",
-    "0. Lore & World building/0.5 People/Faelina Myrr.md",
-    "0. Lore & World building/0.5 People/Serenya Daskelle.md",
-    "2. Gameplay/2.1 Shops/Herbal Remedies.md",
-    "0. Lore & World building/0.5 People/Lysa Greenthorn.md",
+    "0. Lore & World building/0.5 People/Kess Haldovar.md",
+    "0. Lore & World building/0.0 World building and fundamental truths/0.0.0 Religion/Justice.md",
+    "0. Lore & World building/0.1 Nations/The Empire.md",
+    "0. Lore & World building/0.3 Places/Library of First Dawn.md",
+    "0. Lore & World building/0.5 People/Kelren Volst.md",
+    "0. Lore & World building/0.6 Info/0.6.1 Politics/Laws of Marcherion.md",
+    "0. Lore & World building/0.1 Nations/Marcherion.md",
+    "0. Lore & World building/0.3 Places/The Iron Spires.md",
+    "2. Gameplay/2.0 Quests/2.0.0 Marcherion quests/2.0.0.0 Main quests/Missing Caravan (1).md",
+    "0. Lore & World building/0.5 People/Master Corven Draal.md",
+    "0. Lore & World building/0.3 Places/The University of Marcherion.md",
     "2. Gameplay/2.3 Dungeons",
     "2. Gameplay/2.0 Quests/2.0.0 Marcherion quests/2.0.0.1 Side quests",
     "2. Gameplay/2.0 Quests/2.0.0 Marcherion quests/2.0.0.0 Main quests",
